@@ -1,0 +1,24 @@
+.product-info{
+    display: flex;
+    padding: 10px;
+    border-bottom: 1px solid lightgrey;
+    margin-left: 100px;
+}
+.pd-info{
+    margin-left: 10px;
+}
+.pd-info h2{
+    color: blue;
+    font-weight: 400;
+}
+.purchase-btn{
+    height: 27px;
+    width: 150px;
+    background-color: gold;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+.icon{
+    color: gold;
+    margin-bottom: 15px;
+}

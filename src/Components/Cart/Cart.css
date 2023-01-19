@@ -1,0 +1,10 @@
+.cart-head{
+    text-align: center;
+}
+
+.text-right{
+    text-align: end;
+}
+.cart-total h4{
+    color: red;
+}
